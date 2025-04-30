@@ -1,0 +1,19 @@
+Timestamp,Category,Value
+20250425_225927,System,SpecterX v2.0.0
+20250425_225927,CPU Usage,12%
+20250425_225927,Memory Usage,52%
+20250425_225927,Network Usage,25%
+20250425_225927,Security Level,85%
+20250425_225927,Network Device,192.168.1.1 (Router) - Online
+20250425_225927,Network Device,192.168.1.100 (Desktop) - Online
+20250425_225927,Network Device,192.168.1.101 (Mobile) - Online
+20250425_225927,Network Device,192.168.1.102 (IoT Device) - Offline
+20250425_225927,Network Device,192.168.1.144 (IoT Device) - Online
+20250425_225927,Network Device,192.168.1.132 (Desktop) - Online
+20250425_225927,Network Device,192.168.1.139 (IoT Device) - Online
+20250425_225927,Network Device,192.168.1.188 (Mobile) - Online
+20250425_225927,Emotion,Neutral: 39%
+20250425_225927,Emotion,Happy: 14%
+20250425_225927,Emotion,Sad: 19%
+20250425_225927,Emotion,Angry: 8%
+20250425_225927,Emotion,Surprised: 17%

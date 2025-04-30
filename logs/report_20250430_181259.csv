@@ -1,0 +1,11 @@
+Timestamp,Category,Description,Risk Level
+2025-04-30 18:12:59,System,Suspicious system process detected,High
+2025-04-30 18:12:59,System,Unauthorized system changes detected,Medium
+2025-04-30 18:12:59,System,Unauthorized system changes detected,Medium
+2025-04-30 18:12:59,System,Unauthorized system changes detected,Medium
+2025-04-30 18:12:59,Network,Unencrypted network traffic detected,High
+2025-04-30 18:12:59,Security,Weak password policy detected,Critical
+2025-04-30 18:12:59,System,Suspicious system process detected,High
+2025-04-30 18:12:59,System,System firewall disabled,Critical
+2025-04-30 18:12:59,System,Unauthorized system changes detected,Critical
+2025-04-30 18:12:59,Security,Security software disabled,Medium

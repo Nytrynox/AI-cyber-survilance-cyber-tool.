@@ -1,0 +1,8 @@
+opencv-python
+deepface
+pyautogui
+scapy
+pynput
+pyyaml
+tensorflow
+yolo

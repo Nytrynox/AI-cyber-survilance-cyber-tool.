@@ -1,0 +1,11 @@
+{
+    "theme": "Hacker",
+    "animations": true,
+    "font_size": "Medium",
+    "update_interval": "Normal",
+    "log_level": "Normal",
+    "auto_save_logs": true,
+    "data_retention": "30 days",
+    "network_interface": "Auto",
+    "scan_timeout": "5 seconds"
+}

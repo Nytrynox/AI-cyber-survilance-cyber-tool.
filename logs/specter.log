@@ -1,0 +1,9 @@
+2025-04-25 19:19:07,196 - SpecterX - ERROR - Error importing modules: cannot import name 'KeyLogger' from 'keylogger' (C:\Projects\SpecterX\modules\keylogger.py)
+2025-04-25 19:19:19,956 - SpecterX - ERROR - Error importing modules: cannot import name 'KeyLogger' from 'keylogger' (C:\Projects\SpecterX\modules\keylogger.py)
+2025-04-25 19:19:20,517 - SpecterX - CRITICAL - Application error: name 'send_fake_popup' is not defined
+2025-04-25 19:20:32,362 - SpecterX - ERROR - Error importing modules: cannot import name 'NetworkScanner' from 'network_scanner' (C:\Projects\SpecterX\modules\network_scanner.py)
+2025-04-25 19:20:43,428 - SpecterX - ERROR - Error importing modules: cannot import name 'NetworkScanner' from 'network_scanner' (C:\Projects\SpecterX\modules\network_scanner.py)
+2025-04-25 19:20:43,544 - SpecterX - CRITICAL - Application error: name 'send_fake_popup' is not defined
+2025-04-25 19:21:46,164 - SpecterX - ERROR - Error importing modules: cannot import name 'send_fake_popup' from 'fake_popup' (C:\Projects\SpecterX\modules\fake_popup.py)
+2025-04-25 19:21:56,659 - SpecterX - ERROR - Error importing modules: cannot import name 'send_fake_popup' from 'fake_popup' (C:\Projects\SpecterX\modules\fake_popup.py)
+2025-04-25 19:21:56,782 - SpecterX - CRITICAL - Application error: name 'send_fake_popup' is not defined

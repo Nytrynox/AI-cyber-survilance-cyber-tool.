@@ -1,0 +1,11 @@
+timestamp,ip,port,direction
+2025-04-30 18:12:10,Scan progress: 20%,Active connections: 10
+2025-04-30 18:12:11,Scan progress: 40%,Active connections: 10
+2025-04-30 18:12:13,Scan progress: 60%,Active connections: 4
+2025-04-30 18:12:14,Scan progress: 80%,Active connections: 3
+2025-04-30 18:12:16,Scan progress: 100%,Active connections: 9
+2025-04-30 18:12:26,Scan progress: 20%,Active connections: 10
+2025-04-30 18:12:28,Scan progress: 40%,Active connections: 5
+2025-04-30 18:12:29,Scan progress: 60%,Active connections: 5
+2025-04-30 18:12:31,Scan progress: 80%,Active connections: 5
+2025-04-30 18:12:32,Scan progress: 100%,Active connections: 10

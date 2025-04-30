@@ -1,0 +1,38 @@
+[2025-04-25 23:55:56] Detected 3 suspicious packets
+[2025-04-25 23:56:00] Detected 1 suspicious packets
+[2025-04-25 23:56:00] Detected 1 suspicious packets
+[2025-04-25 23:56:02] Detected 3 suspicious packets
+[2025-04-25 23:56:05] INFO: Backup completed successfully
+[2025-04-25 23:56:06] Detected 2 suspicious packets
+[2025-04-25 23:56:07] Detected 2 suspicious packets
+[2025-04-25 23:56:09] Detected 1 suspicious packets
+[2025-04-25 23:56:09] Detected 3 suspicious packets
+[2025-04-25 23:56:12] Detected 2 suspicious packets
+[2025-04-25 23:56:15] Detected 3 suspicious packets
+[2025-04-25 23:56:16] Detected 3 suspicious packets
+[2025-04-25 23:56:18] Detected 2 suspicious packets
+[2025-04-25 23:56:19] Detected 2 suspicious packets
+[2025-04-25 23:56:23] Detected 2 suspicious packets
+[2025-04-25 23:57:03] Screenshot captured: screenshot_20250425_235703.png
+[2025-04-25 23:57:29] INFO: Scan completed
+[2025-04-25 23:57:30] Detected 2 suspicious packets
+[2025-04-25 23:57:33] Detected 2 suspicious packets
+[2025-04-25 23:57:36] Detected 3 suspicious packets
+[2025-04-25 23:57:41] Detected 3 suspicious packets
+[2025-04-25 23:57:42] Detected 1 suspicious packets
+[2025-04-25 23:57:47] Detected 3 suspicious packets
+[2025-04-25 23:57:49] Detected 2 suspicious packets
+[2025-04-25 23:57:51] Detected 2 suspicious packets
+[2025-04-25 23:57:58] INFO: System update available
+[2025-04-25 23:57:59] Detected 2 suspicious packets
+[2025-04-25 23:58:03] Detected 2 suspicious packets
+[2025-04-25 23:58:04] Detected 1 suspicious packets
+[2025-04-25 23:58:05] Detected 2 suspicious packets
+[2025-04-25 23:58:05] WARNING: Unusual network activity detected
+[2025-04-25 23:58:09] Detected 3 suspicious packets
+[2025-04-25 23:58:13] Detected 1 suspicious packets
+[2025-04-25 23:58:28] Detected 2 suspicious packets
+[2025-04-25 23:58:30] Detected 3 suspicious packets
+[2025-04-25 23:58:32] Screenshot captured: screenshot_20250425_235832.png
+[2025-04-25 23:58:32] Detected 3 suspicious packets
+[2025-04-25 23:58:32] Detected 3 suspicious packets
